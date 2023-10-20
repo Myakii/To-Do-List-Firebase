@@ -36,3 +36,9 @@ npm install @mui/material @emotion/react @emotion/styled
 npm install @mui/icons-material
 npm install firebase
 npm install react-router
+
+Contributeurs :
+- Lu Luc
+- Yang Rosine
+- Lejeune Lorys
+- Lin Alexis
