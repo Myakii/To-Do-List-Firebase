@@ -1,0 +1,76 @@
+/* Font pour titre (h2) */
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100&display=swap');
+
+.todo__list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    border-bottom: 8px dotted  #EBF5EE;
+}
+
+.delete-icon {
+
+    cursor: pointer;
+
+}
+
+.my_todolist {
+    background-color: #BFA89E;
+    margin: auto;
+    width: 800px;
+    padding: 50px;
+    margin-bottom: 100px;
+}
+
+.headertodo h2 {
+    text-align: center;
+    padding: 50px;
+    font-size: 40px;
+    color: white;
+    font-family: 'Playpen Sans', cursive;
+    background-color: #A58678;
+    margin: auto;
+    width: 800px;
+    margin-top: 100px;
+    padding: 50px;
+    border-radius: 30px 30px 0px 0px;
+}
+
+
+.list_task h3 {
+    color: #EBF5EE;
+    font-family: 'Playpen Sans', cursive;
+    font-size: 20px;
+}
+
+h4 {
+    color: #EBF5EE;
+    font-family: 'Playpen Sans', cursive;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+.my_form_todolist {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.centered-label .MuiInputLabel-root {
+    text-align: center;
+    align-items: center;
+  }  
+
+.my_form_todolist button {
+    margin-left: 10px ;
+}
+
+#filter_element button:hover {
+    background-color: #8B786D;
+}
+
+#filter_element button:focus {
+    background-color: #8B786D;
+
+}

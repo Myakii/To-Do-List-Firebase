@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Playpen+Sans:wght@100;400&display=swap');
+
+.navbar {
+
+    background-color: #A58678;
+}
+
+.navbar-container {
+
+    display: flex;
+    padding: 2vw;
+    justify-content: space-between;
+    color: #EBF5EE;
+
+}
+
+.navbar-container a {
+
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+
+}
+
+.nav-items {
+
+
+    display: flex;
+    list-style: none;
+    align-items: center;
+
+}
+
+.nav-items {
+
+    gap: 2vw;
+
+}
+
+.nav-items h1 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 60px;
+}
+
+
+.nav-items button {
+    background-color: #8B786D;
+}
+
+.nav-items button:hover {
+    background-color:#72635A;
+}
